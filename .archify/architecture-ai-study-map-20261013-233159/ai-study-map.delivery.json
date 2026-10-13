@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "7de33723-907d-4fff-a0b7-0cbd09f34174",
+  "status": "current",
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/home/user/archify/.archify/architecture-ai-study-map-20261013-233159/candidate.json",
+  "output": "/home/user/archify/.archify/architecture-ai-study-map-20261013-233159/ai-study-map.html",
+  "specification": {
+    "sha256": "c848862b03d20315ed44a7edf6ee0bfea657b2864a571488d05456154905aa73",
+    "bytes": 34516
+  },
+  "artifact": {
+    "sha256": "6dc5c0430ebbedffb9802db7d3d3c8edf72d18c39fa008be4fb980a872febaca",
+    "bytes": 772765
+  }
+}

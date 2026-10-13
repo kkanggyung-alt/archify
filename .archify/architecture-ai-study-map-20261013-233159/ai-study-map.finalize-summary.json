@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "finalize",
+  "status": "pass",
+  "type": "architecture",
+  "quality": "showcase",
+  "specification": {
+    "path": "/home/user/archify/.archify/architecture-ai-study-map-20261013-233159/candidate.json",
+    "sha256": "c848862b03d20315ed44a7edf6ee0bfea657b2864a571488d05456154905aa73",
+    "bytes": 34516
+  },
+  "artifact": {
+    "path": "/home/user/archify/.archify/architecture-ai-study-map-20261013-233159/ai-study-map.html",
+    "sha256": "6dc5c0430ebbedffb9802db7d3d3c8edf72d18c39fa008be4fb980a872febaca",
+    "bytes": 772765
+  },
+  "gates": {
+    "validate": "pass",
+    "deliver": "pass",
+    "check": "pass",
+    "browser-check": "pass"
+  },
+  "diagnostics": [],
+  "diagnosticSummary": {
+    "total": 0,
+    "shown": 0,
+    "truncated": false
+  },
+  "evidence": {
+    "receipt": "/home/user/archify/.archify/architecture-ai-study-map-20261013-233159/ai-study-map.finalize.json",
+    "summaryReceipt": "/home/user/archify/.archify/architecture-ai-study-map-20261013-233159/ai-study-map.finalize-summary.json",
+    "browserCheckReceipt": "/home/user/archify/.archify/architecture-ai-study-map-20261013-233159/ai-study-map.browser-check.json"
+  },
+  "update": {
+    "status": "unavailable",
+    "installedVersion": null,
+    "availableVersion": null,
+    "releaseNotes": null,
+    "checkedAt": null,
+    "source": null,
+    "noticeRequired": false,
+    "noticeText": null,
+    "reason": "cache-valid"
+  },
+  "visualReview": "not-requested",
+  "durationMs": 4775
+}
